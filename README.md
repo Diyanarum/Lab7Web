@@ -283,6 +283,8 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 
 ![menambahkan_gambar](img/TUGAS.png)
 
+Note: Untuk kolom Tanggal Lahir gunakan format : 0000/00/00
+
 ```php
 <!DOCTYPE html>
 <html lang="en">
